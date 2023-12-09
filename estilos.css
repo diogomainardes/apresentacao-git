@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(107, 3, 3);
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0px;
+    padding: 0px;
+}
